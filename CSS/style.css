@@ -1,4 +1,33 @@
-body {
-  background-color: fff;
-  color: brown;
+#wrap {
+  background-color: chartreuse;
 }
+div {
+  background-color: rgb(80, 89, 72);
+  /* background-color: inherit; */
+}
+
+#main {
+  background-color: rgb(230, 172, 36);
+}
+
+.header {
+  text-align: center;
+}
+
+.header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: rgb(184, 131, 233);
+}
+
+
+
+/* #main>div {
+  background-color: rgb(100, 74, 246);
+} */
+/* .main {
+  background-color: rgb(230, 172, 36);
+} */
